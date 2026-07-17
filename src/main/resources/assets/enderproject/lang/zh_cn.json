@@ -1,0 +1,23 @@
+{
+  "itemGroup.enderproject": "EnderProject",
+
+  "item.enderproject.endless_sword": "§0§kXXX§r§5终末轮回§r§0§kXXX§r",
+  "curios.identifier.ender_artifact": "终末之物",
+  "block.enderproject.stem_cell": "多能干细胞",
+  "item.enderproject.end_observer": "§5终末的观察者",
+
+  "key.categories.enderproject": "EnderProject",
+  "key.enderproject.toggle_spectator": "切换旁观模式",
+  "tooltip.enderproject.endless_sword.damage": "§0+NULL 攻击伤害",
+
+  "death.attack.endless.0": "%1$s 被数据流冲成了碎片",
+  "death.attack.endless.1": "%1$s 被黑洞吞噬了",
+  "death.attack.endless.2": "%1$s 被从存在中抹除",
+  "death.attack.endless.3": "%1$s 掉出了宇宙",
+  "death.attack.endless.4": "%1$s 的数据被清除了",
+  "death.attack.endless.player.0": "%1$s 被 %2$s 清除了",
+  "death.attack.endless.player.1": "%1$s 死于 %2$s 的空指针",
+  "death.attack.endless.player.2": "%1$s 死于 %2$s 的数据流",
+  "death.attack.endless.player.3": "%1$s 因 %2$s 数据归零",
+  "death.attack.endless.player.4": "%1$s 因 %2$s 回归原点"
+}

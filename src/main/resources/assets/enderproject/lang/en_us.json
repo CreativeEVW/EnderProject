@@ -1,0 +1,27 @@
+{
+  "enderproject.configuration.title": "EnderProject Configs",
+  "enderproject.configuration.section.enderproject.common.toml": "EnderProject Configs",
+  "enderproject.configuration.section.enderproject.common.toml.title": "EnderProject Configs",
+
+  "itemGroup.enderproject": "EnderProject",
+
+  "item.enderproject.endless_sword": "§k§0XXX§r§5Endless Reincarnation§r§k§0XXX§r",
+  "curios.identifier.ender_artifact": "Ender Artifact",
+  "block.enderproject.stem_cell": "Pluripotent Stem Cell",
+  "item.enderproject.end_observer": "End Observer",
+
+  "key.categories.enderproject": "EnderProject",
+  "key.enderproject.toggle_spectator": "Toggle Spectator",
+  "tooltip.enderproject.endless_sword.damage": "§0+NULL Attack Damage",
+
+  "death.attack.endless.0": "%1$s was sliced to ribbons",
+  "death.attack.endless.1": "%1$s was sliced to ribbons",
+  "death.attack.endless.2": "%1$s was excised from existence",
+  "death.attack.endless.3": "%1$s was overkilled",
+  "death.attack.endless.4": "%1$s was annihilated",
+  "death.attack.endless.player.0": "%1$s was sliced to ribbons by %2$s",
+  "death.attack.endless.player.1": "%1$s was sliced to ribbons by %2$s",
+  "death.attack.endless.player.2": "%1$s was excised from existence by %2$s",
+  "death.attack.endless.player.3": "%1$s was overkilled by %2$s",
+  "death.attack.endless.player.4": "%1$s was annihilated by %2$s"
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "avaritia:infinity_helmet" },
+    { "item": "avaritia:infinity_chestplate" },
+    { "item": "avaritia:infinity_pants" },
+    { "item": "avaritia:infinity_boots" }
+  ],
+  "result": {
+    "id": "enderproject:end_observer",
+    "count": 1
+  }
+}

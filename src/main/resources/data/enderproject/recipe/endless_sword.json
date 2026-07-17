@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C",
+    "C",
+    "B"
+  ],
+  "key": {
+    "C": { "item": "minecraft:repeating_command_block" },
+    "B": { "item": "minecraft:breeze_rod" }
+  },
+  "result": {
+    "id": "enderproject:endless_sword",
+    "count": 1
+  }
+}
