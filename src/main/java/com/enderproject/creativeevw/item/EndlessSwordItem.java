@@ -58,6 +58,13 @@ public class EndlessSwordItem extends SwordItem {
         return new ItemAttributeModifiers(entries, false);
     }
 
+    // === 无耐久度 ===
+
+    @Override
+    public boolean isBarVisible(ItemStack stack) {
+        return false;
+    }
+
     // ==================== 左键：命中后玩家周围 2 格 AOE ====================
 
     @Override

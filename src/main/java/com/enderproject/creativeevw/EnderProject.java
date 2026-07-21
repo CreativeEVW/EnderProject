@@ -6,6 +6,7 @@ import com.enderproject.creativeevw.item.EndObserverHandler;
 import com.enderproject.creativeevw.item.EndObserverItem;
 import com.enderproject.creativeevw.item.EndlessSwordItem;
 import net.minecraft.world.entity.player.Player;
+import net.minecraft.core.component.DataComponents;
 import net.minecraft.world.item.BlockItem;
 import org.slf4j.Logger;
 
@@ -40,7 +41,9 @@ public class EnderProject {
     public static final DeferredItem<Item> ENDLESS_SWORD = ITEMS.register("endless_sword",
             () -> new EndlessSwordItem(Tiers.NETHERITE, new Item.Properties()
                     .stacksTo(1)
-                    .fireResistant()));
+                    .fireResistant()
+                    .durability(1)
+                    .component(DataComponents.UNBREAKABLE, new net.minecraft.world.item.component.Unbreakable(false))));
     public static final DeferredItem<Item> END_OBSERVER = ITEMS.register("end_observer",
             () -> new EndObserverItem(new Item.Properties()
                     .stacksTo(1)
